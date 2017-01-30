@@ -1,0 +1,6 @@
+etl/build/
+etl/.gradle/
+hello-world/build/
+hello-world/.gradle/
+nucleotide-count/build/
+nucleotide-count/.gradle/
