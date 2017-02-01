@@ -1,6 +1,10 @@
-etl/build/
-etl/.gradle/
-hello-world/build/
-hello-world/.gradle/
-nucleotide-count/build/
-nucleotide-count/.gradle/
+java/etl/build/
+java/etl/.gradle/
+java/hello-world/build/
+java/hello-world/.gradle/
+java/nucleotide-count/build/
+java/nucleotide-count/.gradle/
+java/word-count/build/
+java/word-count/.gradle/
+java/pangram/build/
+java/pangram/.gradle/
