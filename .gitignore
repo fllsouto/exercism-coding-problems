@@ -8,3 +8,7 @@ java/word-count/build/
 java/word-count/.gradle/
 java/pangram/build/
 java/pangram/.gradle/
+java/anagram/build/
+java/anagram/.gradle/
+java/hamming/build/
+java/hamming/.gradle/
