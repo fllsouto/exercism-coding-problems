@@ -1,6 +1,5 @@
-def is_isogram(word):
-    l_word = list(word)
-    for c in l_word:
-        if( not(l_word.count(c) == 0) ):
-            return 0
-    return 1
+def is_isogram(string):
+
+    l_string = string.lower()
+    r_string = l_string.replace(' ', '').replace('-', '')
+    return len(r_string) == len(set(r_string))
